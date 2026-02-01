@@ -4,7 +4,7 @@ base_url = "https://sebasnabas.github.io"
 title = "Seb's Blog"
 
 author = "Sebastian Eberlein"
-description = "Opinionated, modern, pretty, and clean Zola theme."
+description = ""
 
 theme = "tabi"
 
