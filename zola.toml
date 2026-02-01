@@ -161,7 +161,8 @@ feed_icon = true
 # Built-in icons: https://github.com/welpo/tabi/tree/main/static/social_icons
 # To use a custom icon, add it to your site's `static/social_icons` directory.
 socials = [
-    # { name = "github", url = "https://github.com/welpo/", icon = "github" },
+    { name = "GitHub", url = "https://github.com/sebasnabas", icon = "github" },
+    { name = "LinkedIn", url = "https://linkedin.com/in/seb-e", icon = "linkedin" },
 ]
 
 # Extra menu to show on the footer, below socials section.
