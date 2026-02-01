@@ -42,6 +42,13 @@ them_switcher = true
 
 skin = "gruvbox"
 
+menu = [
+    { name = "blog", url = "blog" },
+    { name = "about", url = "about" },
+    { name = "/slashes", url = "slashes"}
+]
+
+
 # Set browser theme colour. Can be a single colour or [light, dark].
 # Note: Bright colors may be ignored in dark mode.
 # More details: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
@@ -137,11 +144,6 @@ favicon_emoji = "🌯"
 # Using an image representative of each post is recommended. You can do so by setting this variable in the [extra] section of a post's front matter.
 # If a post doesn't have a social media card, the site's default, below, will be used.
 # social_media_card = "img/social_cards/index.jpg"
-
-menu = [
-    { name = "blog", url = "blog" },
-    { name = "about", url = "about" },
-]
 
 # The RSS icon will be shown if (1) it's enabled and (2) the following variable is set to true.
 feed_icon = true
