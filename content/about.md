@@ -5,4 +5,4 @@ date = 2026-02-01
 
 Hi, I'm Sebastian 👋.
 
-I like building and running Software.
+I live in Berlin, Germany and I like building and running Software and especially, seeing how it breaks.
