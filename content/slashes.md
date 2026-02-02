@@ -6,4 +6,5 @@ template = "info-page.html"
 
 See [https://slashpages.net/](https://slashpages.net/).
 
+- [/blogroll](/blogroll) - Blogs I like
 - [/podroll](/podroll) - Podcasts I like
