@@ -5,7 +5,7 @@ date = 2026-02-01
 
 ## Tech
 
-Software/technology(-related) podcasts in alphabetic order.
+Software/technology(-related) podcasts in alphabetical order.
 
 
 - [@Autoweird.fm](https://autoweirdfm.podigee.io/) 🇩🇪
