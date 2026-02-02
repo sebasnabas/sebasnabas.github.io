@@ -1,6 +1,7 @@
 +++
 title = "Podcasts I enjoy listening to"
 date = 2026-02-01
+template = "info-page.html"
 +++
 
 ## Tech

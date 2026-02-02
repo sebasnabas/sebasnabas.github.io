@@ -1,6 +1,7 @@
 +++
 title = "About me"
 date = 2026-02-01
+template = "info-page.html"
 +++
 
 Hi, I'm Sebastian 👋.
